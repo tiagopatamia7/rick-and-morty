@@ -1,0 +1,26 @@
+.fondo {
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=5441&resolucion=1920x1080)
+}
+
+.cardsEdit{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+    width:50%;
+    height: 50%;
+    
+    margin:auto;
+    
+   
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 10em;
+    padding-bottom: 5em;
+    border-radius: 15px;
+    
+
+}
+
+
+

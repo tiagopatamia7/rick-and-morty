@@ -1,0 +1,45 @@
+.fondo{
+    
+    display: flex;
+    flex-direction:row;
+    border-radius: 10px;
+    justify-content:center;
+  
+    margin-bottom: 1em;
+    padding-top: 5%;
+    
+
+    
+    
+   
+}
+
+.searchInput{
+    
+    border-color: blueviolet;
+    border-radius: 15px 0px 0px 15px;
+    background-color: lightblue;
+    height: 3em;
+    width: 300px;
+    padding-left: 5em;
+    box-shadow: 5px 5px 5px white;
+}
+.searchButton{
+    
+    border-color: blueviolet;
+    border-radius: 0px 15px 15px 0px;
+    background-color: lightblue;
+    height: 3em;
+    width: 60px;
+    box-shadow: 5px 5px 5px white;
+}
+.searchButton:hover{
+    
+    background-color: blueviolet;
+}
+
+.img{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
